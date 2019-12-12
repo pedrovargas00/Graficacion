@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1549824582 source:c:\users\pedro\desktop\lab7\src\punto.cpp
+	"Punto.h"
+
+1549824535 c:\users\pedro\desktop\lab7\include\punto.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1546977684 c:\users\pedro\desktop\glut\glut-3.7.6-bin\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1549838301 source:c:\users\pedro\desktop\lab7\src\linea.cpp
+	"Linea.h"
+
+1549837990 c:\users\pedro\desktop\lab7\include\linea.h
+	"Punto.h"
+
+1549851909 source:c:\users\pedro\desktop\lab7\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Punto.h"
+	"Linea.h"
+	"Poligono.h"
+	<stdlib.h>
+
+1549853991 source:c:\users\pedro\desktop\lab7\src\poligono.cpp
+	<math.h>
+	<stdlib.h>
+	"Poligono.h"
+	"Punto.h"
+	"Linea.h"
+	<String.h>
+	<stdio.h>
+
+1549844360 c:\users\pedro\desktop\lab7\include\poligono.h
+	"Linea.h"
+	"Punto.h"
+

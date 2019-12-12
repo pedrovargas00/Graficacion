@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1558455763 source:c:\users\pedro\desktop\graficación\imagenes\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"Textura.h"
+	"Objeto.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1546981284 c:\users\pedro\desktop\glut\glut-3.7.6-bin\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557162018 c:\users\pedro\desktop\graficación\imagenes\include\textura.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"../FreeImage.h"
+
+1521999740 c:\users\pedro\desktop\graficación\imagenes\include\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1557159986 source:c:\users\pedro\desktop\graficación\imagenes\src\textura.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<FreeImage.h>
+	<Textura.h>
+	<stdio.h>
+	<stdlib.h>
+
+1521999740 c:\users\pedro\desktop\graficación\imagenes\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1557590782 source:c:\users\pedro\desktop\graficación\imagenes\src\objeto.cpp
+	"Objeto.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<fstream>
+	"Objeto.h"
+
+1557590781 c:\users\pedro\desktop\graficación\imagenes\include\objeto.h
+

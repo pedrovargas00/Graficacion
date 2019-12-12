@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1557291183 source:c:\users\monyk\desktop\graficacion\proyectos\proyectof\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"Cubo.h"
+	"Laberinto.h"
+	"Escenario.h"
+
+1546975392 c:\users\monyk\desktop\graficacion\glut-3.7.6-bin\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557197727 c:\users\monyk\desktop\graficacion\proyectos\proyectof\include\cubo.h
+
+1557287859 c:\users\monyk\desktop\graficacion\proyectos\proyectof\include\laberinto.h
+	"Cubo.h"
+	<Colisionador.h>
+
+1557287526 source:c:\users\monyk\desktop\graficacion\proyectos\proyectof\src\cubo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Cubo.h"
+
+1557290921 source:c:\users\monyk\desktop\graficacion\proyectos\proyectof\src\laberinto.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Laberinto.h"
+	<stdio.h>
+
+1557287494 source:c:\users\monyk\desktop\graficacion\proyectos\proyectof\src\colisionador.cpp
+	"Colisionador.h"
+	<stdio.h>
+
+1557197728 c:\users\monyk\desktop\graficacion\proyectos\proyectof\include\colisionador.h
+	<Cubo.h>
+
+1557287796 c:\users\monyk\desktop\graficacion\proyectos\proyectof\include\escenario.h
+	"Laberinto.h"
+	"Bonos.h"
+
+1557287878 c:\users\monyk\desktop\graficacion\proyectos\proyectof\include\bonos.h
+
+1557287651 source:c:\users\monyk\desktop\graficacion\proyectos\proyectof\src\bonos.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Bonos.h"
+
+1557287767 source:c:\users\monyk\desktop\graficacion\proyectos\proyectof\src\escenario.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Escenario.h"
+

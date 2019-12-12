@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1555539175 source:c:\users\pedro\desktop\graficación\lab11\src\agente.cpp
+	"Agente.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1555539136 c:\users\pedro\desktop\graficación\lab11\include\agente.h
+
+1546981284 c:\users\pedro\desktop\glut\glut-3.7.6-bin\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1555539197 source:c:\users\pedro\desktop\graficación\lab11\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Agente.h"
+	<stdlib.h>
+	<stdio.h>
+

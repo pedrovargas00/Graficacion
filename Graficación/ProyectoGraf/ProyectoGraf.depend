@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1557803361 source:c:\users\pedro\desktop\graficación\proyectograf\src\bonos.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Bonos.h"
+
+1546981284 c:\users\pedro\desktop\glut\glut-3.7.6-bin\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557803361 c:\users\pedro\desktop\graficación\proyectograf\include\bonos.h
+
+1557803361 source:c:\users\pedro\desktop\graficación\proyectograf\src\colisionador.cpp
+	"Colisionador.h"
+	<stdio.h>
+
+1557803361 c:\users\pedro\desktop\graficación\proyectograf\include\colisionador.h
+	"Cubo.h"
+	"Bonos.h"
+
+1557836439 c:\users\pedro\desktop\graficación\proyectograf\include\cubo.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"Textura.h"
+
+1557803361 c:\users\pedro\desktop\graficación\proyectograf\include\textura.h
+	"../FreeImage.h"
+
+1521999740 c:\users\pedro\desktop\graficación\proyectograf\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1557836439 source:c:\users\pedro\desktop\graficación\proyectograf\src\cubo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Cubo.h"
+
+1557836584 source:c:\users\pedro\desktop\graficación\proyectograf\src\dementor.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	"Dementor.h"
+
+1557836610 c:\users\pedro\desktop\graficación\proyectograf\include\dementor.h
+	"Cubo.h"
+	"Colisionador.h"
+	"Laberinto.h"
+	"Bonos.h"
+	"Objetos.h"
+
+1557808558 c:\users\pedro\desktop\graficación\proyectograf\include\laberinto.h
+	"Cubo.h"
+	<Colisionador.h>
+	"Textura.h"
+
+1557837057 source:c:\users\pedro\desktop\graficación\proyectograf\src\escenario.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Escenario.h"
+
+1557819433 c:\users\pedro\desktop\graficación\proyectograf\include\escenario.h
+	"Laberinto.h"
+	"Bonos.h"
+	"Dementor.h"
+	"Cubo.h"
+	"Varita.h"
+
+1557815884 source:c:\users\pedro\desktop\graficación\proyectograf\src\laberinto.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Laberinto.h"
+	<stdio.h>
+
+1557803361 source:c:\users\pedro\desktop\graficación\proyectograf\src\textura.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Textura.h"
+	<stdio.h>
+	<stdlib.h>
+
+1557836995 source:c:\users\pedro\desktop\graficación\proyectograf\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"Cubo.h"
+	"Laberinto.h"
+	"Escenario.h"
+
+1557816876 c:\users\pedro\desktop\graficación\proyectograf\include\objetos.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"../FreeImage.h"
+
+1557816905 source:c:\users\pedro\desktop\graficación\proyectograf\src\objetos.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Objetos.h"
+	<stdio.h>
+
+1557819688 c:\users\pedro\desktop\graficación\proyectograf\include\varita.h
+	"Objetos.h"
+
+1557836972 source:c:\users\pedro\desktop\graficación\proyectograf\src\varita.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Varita.h"
+	<stdio.h>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto2" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Users/Pedro/Desktop/Glut/glut-3.7.6-bin/bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto2" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Users/Pedro/Desktop/Glut/glut-3.7.6-bin/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Users/Pedro/Desktop/Glut/glut-3.7.6-bin/include" />
+		</Compiler>
+		<Linker>
+			<Add library="glut32" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add directory="C:/Users/Pedro/Desktop/Glut/glut-3.7.6-bin/lib" />
+		</Linker>
+		<Unit filename="include/Arbol.h" />
+		<Unit filename="include/Circulo.h" />
+		<Unit filename="include/Ciudad.h" />
+		<Unit filename="include/Cuadrado.h" />
+		<Unit filename="include/Cubo.h" />
+		<Unit filename="include/Escenario.h" />
+		<Unit filename="include/Linea.h" />
+		<Unit filename="include/Matriz.h" />
+		<Unit filename="include/MatrizRotacion.h" />
+		<Unit filename="include/Muro.h" />
+		<Unit filename="include/Nave.h" />
+		<Unit filename="include/Persona.h" />
+		<Unit filename="include/Piramide.h" />
+		<Unit filename="include/Punto.h" />
+		<Unit filename="include/Terrestre.h" />
+		<Unit filename="include/Triangulo.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Arbol.cpp" />
+		<Unit filename="src/Circulo.cpp" />
+		<Unit filename="src/Ciudad.cpp" />
+		<Unit filename="src/Cuadrado.cpp" />
+		<Unit filename="src/Cubo.cpp" />
+		<Unit filename="src/Escenario.cpp" />
+		<Unit filename="src/Linea.cpp" />
+		<Unit filename="src/Matriz.cpp" />
+		<Unit filename="src/MatrizRotacion.cpp" />
+		<Unit filename="src/Muro.cpp" />
+		<Unit filename="src/Nave.cpp" />
+		<Unit filename="src/Persona.cpp" />
+		<Unit filename="src/Piramide.cpp" />
+		<Unit filename="src/Punto.cpp" />
+		<Unit filename="src/Terrestre.cpp" />
+		<Unit filename="src/Triangulo.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

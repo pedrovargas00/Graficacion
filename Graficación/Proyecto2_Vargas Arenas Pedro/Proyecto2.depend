@@ -1,0 +1,326 @@
+# depslib dependency file v1.0
+1554476725 source:c:\users\pedro\desktop\graficación\proyecto2\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Escenario.h"
+	"Cubo.h"
+	<stdlib.h>
+	<stdio.h>
+
+1546981284 c:\users\pedro\desktop\glut\glut-3.7.6-bin\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1554476515 c:\users\pedro\desktop\graficación\proyecto2\include\escenario.h
+	"Nave.h"
+	"Ciudad.h"
+	"Terrestre.h"
+	"Arbol.h"
+	"Muro.h"
+	"Persona.h"
+	"Linea.h"
+
+1554415438 c:\users\pedro\desktop\graficación\proyecto2\include\ciudad.h
+	"Linea.h"
+	"Cubo.h"
+	"Cuadrado.h"
+	"Piramide.h"
+
+1554419819 c:\users\pedro\desktop\graficación\proyecto2\include\linea.h
+	"Punto.h"
+	"MatrizRotacion.h"
+	"Matriz.h"
+
+1554477263 c:\users\pedro\desktop\graficación\proyecto2\include\punto.h
+
+1554402210 c:\users\pedro\desktop\graficación\proyecto2\include\cubo.h
+	"Matriz.h"
+	"Punto.h"
+	"Linea.h"
+	"MatrizRotacion.h"
+
+1554059564 c:\users\pedro\desktop\graficación\proyecto2\include\matriz.h
+	"MatrizRotacion.h"
+
+1554179968 c:\users\pedro\desktop\graficación\proyecto2\include\matrizrotacion.h
+
+1554402210 c:\users\pedro\desktop\graficación\proyecto2\include\cuadrado.h
+	"Matriz.h"
+	"Linea.h"
+	"Punto.h"
+	"MatrizRotacion.h"
+
+1554402210 c:\users\pedro\desktop\graficación\proyecto2\include\piramide.h
+	"Matriz.h"
+	"MatrizRotacion.h"
+	"Linea.h"
+	"Punto.h"
+
+1554474457 c:\users\pedro\desktop\graficación\proyecto2\include\terrestre.h
+	"Linea.h"
+	"Cubo.h"
+	"Piramide.h"
+	"Cuadrado.h"
+	"Punto.h"
+
+1554477390 source:c:\users\pedro\desktop\graficación\proyecto2\src\circulo.cpp
+	"Circulo.h"
+	<math.h>
+	<stdio.h>
+
+1554477390 c:\users\pedro\desktop\graficación\proyecto2\include\circulo.h
+	"Linea.h"
+	"Punto.h"
+	"Matriz.h"
+	"MatrizRotacion.h"
+
+1554417292 source:c:\users\pedro\desktop\graficación\proyecto2\src\ciudad.cpp
+	"Ciudad.h"
+
+1554417141 source:c:\users\pedro\desktop\graficación\proyecto2\src\cuadrado.cpp
+	"Cuadrado.h"
+	"stdio.h"
+
+1554466249 source:c:\users\pedro\desktop\graficación\proyecto2\src\cubo.cpp
+	"Cubo.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
+1554476910 source:c:\users\pedro\desktop\graficación\proyecto2\src\escenario.cpp
+	"Escenario.h"
+
+1554424434 source:c:\users\pedro\desktop\graficación\proyecto2\src\linea.cpp
+	"Linea.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1554469383 source:c:\users\pedro\desktop\graficación\proyecto2\src\matriz.cpp
+	"Matriz.h"
+	<stdio.h>
+	<math.h>
+
+1554180061 source:c:\users\pedro\desktop\graficación\proyecto2\src\matrizrotacion.cpp
+	"MatrizRotacion.h"
+	<stdio.h>
+	<math.h>
+
+1554414492 source:c:\users\pedro\desktop\graficación\proyecto2\src\piramide.cpp
+	"Piramide.h"
+	<stdio.h>
+
+1554477274 source:c:\users\pedro\desktop\graficación\proyecto2\src\punto.cpp
+	"Punto.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1554474764 source:c:\users\pedro\desktop\graficación\proyecto2\src\terrestre.cpp
+	"Terrestre.h"
+
+1554415445 source:c:\users\pedro\desktop\graficación\proyecto2\src\triangulo.cpp
+	"Triangulo.h"
+	"stdio.h"
+
+1554402210 c:\users\pedro\desktop\graficación\proyecto2\include\triangulo.h
+	"Matriz.h"
+	"Punto.h"
+	"Linea.h"
+	"MatrizRotacion.h"
+
+1554414052 c:\users\pedro\desktop\graficación\proyecto2\include\arbol.h
+	"Punto.h"
+	"Piramide.h"
+	"Cubo.h"
+
+1554435485 source:c:\users\pedro\desktop\graficación\proyecto2\src\arbol.cpp
+	"Arbol.h"
+
+1554394029 source:c:\users\pedro\desktop\graficación\proyecto2\src\bosque.cpp
+	"Arbol.h"
+
+1554475160 source:c:\users\pedro\desktop\graficación\proyecto2\src\nave.cpp
+	"Nave.h"
+
+1554461810 c:\users\pedro\desktop\graficación\proyecto2\include\nave.h
+	"Circulo.h"
+	"Piramide.h"
+	"Punto.h"
+
+1554472152 c:\users\pedro\desktop\graficación\proyecto2\include\muro.h
+	"Linea.h"
+	"Punto.h"
+	"Cubo.h"
+
+1554475404 source:c:\users\pedro\desktop\graficación\proyecto2\src\muro.cpp
+	"Muro.h"
+
+1554477263 c:\users\pedro\desktop\graficación\proyecto2\include\persona.h
+	"Linea.h"
+	"Circulo.h"
+
+1554477420 source:c:\users\pedro\desktop\graficación\proyecto2\src\persona.cpp
+	"Persona.h"
+
+1554480325 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Escenario.h"
+	"Cubo.h"
+	<stdlib.h>
+	<stdio.h>
+
+1554480115 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\escenario.h
+	"Nave.h"
+	"Ciudad.h"
+	"Terrestre.h"
+	"Arbol.h"
+	"Muro.h"
+	"Persona.h"
+	"Linea.h"
+
+1554465410 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\nave.h
+	"Circulo.h"
+	"Piramide.h"
+	"Punto.h"
+
+1554482310 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\circulo.h
+	"Linea.h"
+	"Punto.h"
+	"Matriz.h"
+	"MatrizRotacion.h"
+
+1554423419 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\linea.h
+	"Punto.h"
+	"MatrizRotacion.h"
+	"Matriz.h"
+
+1554480863 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\punto.h
+
+1554183568 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\matrizrotacion.h
+
+1554063164 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\matriz.h
+	"MatrizRotacion.h"
+
+1554405810 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\piramide.h
+	"Matriz.h"
+	"MatrizRotacion.h"
+	"Linea.h"
+	"Punto.h"
+
+1554419038 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\ciudad.h
+	"Linea.h"
+	"Cubo.h"
+	"Cuadrado.h"
+	"Piramide.h"
+
+1554405810 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\cubo.h
+	"Matriz.h"
+	"Punto.h"
+	"Linea.h"
+	"MatrizRotacion.h"
+
+1554405810 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\cuadrado.h
+	"Matriz.h"
+	"Linea.h"
+	"Punto.h"
+	"MatrizRotacion.h"
+
+1554478057 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\terrestre.h
+	"Linea.h"
+	"Cubo.h"
+	"Piramide.h"
+	"Cuadrado.h"
+	"Punto.h"
+
+1554417652 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\arbol.h
+	"Punto.h"
+	"Piramide.h"
+	"Cubo.h"
+
+1554475752 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\muro.h
+	"Linea.h"
+	"Punto.h"
+	"Cubo.h"
+
+1554480863 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\persona.h
+	"Linea.h"
+	"Circulo.h"
+
+1554420892 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\ciudad.cpp
+	"Ciudad.h"
+
+1554482501 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\cuadrado.cpp
+	"Cuadrado.h"
+	"stdio.h"
+
+1554482501 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\cubo.cpp
+	"Cubo.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
+1554483160 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\escenario.cpp
+	"Escenario.h"
+
+1554482833 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\linea.cpp
+	"Linea.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1554482833 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\matriz.cpp
+	"Matriz.h"
+	<stdio.h>
+	<math.h>
+
+1554482833 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\matrizrotacion.cpp
+	"MatrizRotacion.h"
+	<stdio.h>
+	<math.h>
+
+1554482833 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\muro.cpp
+	"Muro.h"
+
+1554482833 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\nave.cpp
+	"Nave.h"
+
+1554481020 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\persona.cpp
+	"Persona.h"
+
+1554483035 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\piramide.cpp
+	"Piramide.h"
+	<stdio.h>
+
+1554480874 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\punto.cpp
+	"Punto.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1554478364 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\terrestre.cpp
+	"Terrestre.h"
+
+1554483035 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\triangulo.cpp
+	"Triangulo.h"
+	"stdio.h"
+
+1554405810 c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\include\triangulo.h
+	"Matriz.h"
+	"Punto.h"
+	"Linea.h"
+	"MatrizRotacion.h"
+
+1554482310 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\arbol.cpp
+	"Arbol.h"
+
+1554482501 source:c:\users\pedro\desktop\graficación\proyecto2_vargas arenas pedro\src\circulo.cpp
+	"Circulo.h"
+	<math.h>
+	<stdio.h>
+

@@ -1,0 +1,209 @@
+# depslib dependency file v1.0
+1551455153 source:c:\users\pedro\desktop\graficación\proyecto\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Punto.h"
+	"Linea.h"
+	"Escenario.h"
+	<stdlib.h>
+	<stdio.h>
+
+1546977684 c:\users\pedro\desktop\glut\glut-3.7.6-bin\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1551236300 c:\users\pedro\desktop\graficación\proyecto\include\punto.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1550637623 c:\users\pedro\desktop\graficación\proyecto\include\linea.h
+	"Punto.h"
+
+1551376199 c:\users\pedro\desktop\graficación\proyecto\include\escenario.h
+	"Nave.h"
+	"Piramide.h"
+	"Alienigena.h"
+	"Luna.h"
+
+1551450940 c:\users\pedro\desktop\graficación\proyecto\include\circulo.h
+	"Linea.h"
+	"Punto.h"
+	"Matriz.h"
+
+1551451253 c:\users\pedro\desktop\graficación\proyecto\include\cuadrado.h
+	"Linea.h"
+	"Punto.h"
+	"Matriz.h"
+
+1551451253 c:\users\pedro\desktop\graficación\proyecto\include\triangulo.h
+	"Linea.h"
+	"Punto.h"
+	"Matriz.h"
+
+1551454300 source:c:\users\pedro\desktop\graficación\proyecto\src\escenario.cpp
+	"Escenario.h"
+	"Circulo.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Linea.h"
+	"Punto.h"
+
+1551453712 source:c:\users\pedro\desktop\graficación\proyecto\src\circulo.cpp
+	"Circulo.h"
+	<stdio.h>
+	<math.h>
+
+1551233231 source:c:\users\pedro\desktop\graficación\proyecto\src\punto.cpp
+	"Punto.h"
+
+1551288694 source:c:\users\pedro\desktop\graficación\proyecto\src\linea.cpp
+	"Linea.h"
+
+1551454300 source:c:\users\pedro\desktop\graficación\proyecto\src\matriz.cpp
+	"Matriz.h"
+	<math.h>
+	<stdio.h>
+
+1551453712 c:\users\pedro\desktop\graficación\proyecto\include\matriz.h
+	<stdlib.h>
+
+1551453712 source:c:\users\pedro\desktop\graficación\proyecto\src\triangulo.cpp
+	"Triangulo.h"
+
+1551453712 source:c:\users\pedro\desktop\graficación\proyecto\src\cuadrado.cpp
+	"Cuadrado.h"
+	<String.h>
+
+1551376199 c:\users\pedro\desktop\graficación\proyecto\include\nave.h
+	"Linea.h"
+	"Punto.h"
+	"Triangulo.h"
+	"Cuadrado.h"
+
+1551409891 source:c:\users\pedro\desktop\graficación\proyecto\src\nave.cpp
+	"Nave.h"
+
+1551454697 c:\users\pedro\desktop\graficación\proyecto\include\piramide.h
+	"Linea.h"
+	"Triangulo.h"
+
+1551367672 source:c:\users\pedro\desktop\graficación\proyecto\src\piramide.cpp
+	"Piramide.h"
+
+1551454697 c:\users\pedro\desktop\graficación\proyecto\include\alienigena.h
+	"Circulo.h"
+	"Triangulo.h"
+	"Linea.h"
+
+1551373710 source:c:\users\pedro\desktop\graficación\proyecto\src\alienigena.cpp
+	"Alienigena.h"
+
+1551377556 c:\users\pedro\desktop\graficación\proyecto\include\luna.h
+	"Circulo.h"
+
+1551377557 source:c:\users\pedro\desktop\graficación\proyecto\src\luna.cpp
+	"Luna.h"
+
+1551455153 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Punto.h"
+	"Linea.h"
+	"Escenario.h"
+	<stdlib.h>
+	<stdio.h>
+
+1551236300 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\punto.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1550637623 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\linea.h
+	"Punto.h"
+
+1551376199 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\escenario.h
+	"Nave.h"
+	"Piramide.h"
+	"Alienigena.h"
+	"Luna.h"
+
+1551376199 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\nave.h
+	"Linea.h"
+	"Punto.h"
+	"Triangulo.h"
+	"Cuadrado.h"
+
+1551451253 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\triangulo.h
+	"Linea.h"
+	"Punto.h"
+	"Matriz.h"
+
+1551453712 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\matriz.h
+	<stdlib.h>
+
+1551451253 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\cuadrado.h
+	"Linea.h"
+	"Punto.h"
+	"Matriz.h"
+
+1551454697 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\piramide.h
+	"Linea.h"
+	"Triangulo.h"
+
+1551454697 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\alienigena.h
+	"Circulo.h"
+	"Triangulo.h"
+	"Linea.h"
+
+1551450940 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\circulo.h
+	"Linea.h"
+	"Punto.h"
+	"Matriz.h"
+
+1551377556 c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\include\luna.h
+	"Circulo.h"
+
+1551373710 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\alienigena.cpp
+	"Alienigena.h"
+
+1551453712 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\circulo.cpp
+	"Circulo.h"
+	<stdio.h>
+	<math.h>
+
+1551455236 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\escenario.cpp
+	"Escenario.h"
+	"Circulo.h"
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Linea.h"
+	"Punto.h"
+
+1551377557 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\luna.cpp
+	"Luna.h"
+
+1551409891 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\nave.cpp
+	"Nave.h"
+
+1551367672 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\piramide.cpp
+	"Piramide.h"
+
+1551233231 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\punto.cpp
+	"Punto.h"
+
+1552620841 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\cuadrado.cpp
+	"Cuadrado.h"
+	<String.h>
+
+1552619065 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\linea.cpp
+	"Linea.h"
+
+1554173742 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\matriz.cpp
+	"Matriz.h"
+	<math.h>
+	<stdio.h>
+
+1552620503 source:c:\users\pedro\desktop\graficación\proyecto_vargas arenas pedro\src\triangulo.cpp
+	"Triangulo.h"
+

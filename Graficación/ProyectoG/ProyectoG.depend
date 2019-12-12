@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1557802181 source:c:\users\pedro\desktop\graficación\proyectog\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"Cubo.h"
+	"Laberinto.h"
+	"Escenario.h"
+
+1546981284 c:\users\pedro\desktop\glut\glut-3.7.6-bin\include\gl\glut.h
+	<windows.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557694583 c:\users\pedro\desktop\graficación\proyectog\include\cubo.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"Textura.h"
+
+1557797008 c:\users\pedro\desktop\graficación\proyectog\include\laberinto.h
+	"Cubo.h"
+	<Colisionador.h>
+	"Textura.h"
+
+1557623725 c:\users\pedro\desktop\graficación\proyectog\include\colisionador.h
+	"Cubo.h"
+	"Bonos.h"
+
+1557801180 c:\users\pedro\desktop\graficación\proyectog\include\escenario.h
+	"Laberinto.h"
+	"Bonos.h"
+	"Dementor.h"
+	"Cubo.h"
+
+1557623725 c:\users\pedro\desktop\graficación\proyectog\include\bonos.h
+
+1557802138 source:c:\users\pedro\desktop\graficación\proyectog\src\bonos.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Bonos.h"
+
+1557802138 source:c:\users\pedro\desktop\graficación\proyectog\src\colisionador.cpp
+	"Colisionador.h"
+	<stdio.h>
+
+1557802138 source:c:\users\pedro\desktop\graficación\proyectog\src\cubo.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Cubo.h"
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Cubo.h"
+
+1557802154 source:c:\users\pedro\desktop\graficación\proyectog\src\escenario.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Escenario.h"
+
+1557802138 source:c:\users\pedro\desktop\graficación\proyectog\src\laberinto.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Laberinto.h"
+	<stdio.h>
+
+1557329140 source:c:\users\pedro\desktop\graficación\proyectog\src\textura.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<Textura.h>
+	<stdio.h>
+	<stdlib.h>
+
+1557328928 c:\users\pedro\desktop\graficación\proyectog\include\textura.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"../FreeImage.h"
+
+1521999740 c:\users\pedro\desktop\graficación\proyectog\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1557796666 c:\users\pedro\desktop\graficación\proyectog\include\dementor.h
+	"Cubo.h"
+	"Inteligencia.h"
+	"Colisionador.h"
+	"Laberinto.h"
+	"Bonos.h"
+
+1557623255 c:\users\pedro\desktop\graficación\proyectog\include\inteligencia.h
+
+1557623255 source:c:\users\pedro\desktop\graficación\proyectog\src\inteligencia.cpp
+	"Inteligencia.h"
+
+1557802138 source:c:\users\pedro\desktop\graficación\proyectog\src\dementor.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	"Dementor.h"
+

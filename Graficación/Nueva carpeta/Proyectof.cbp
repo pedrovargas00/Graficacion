@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyectof" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyectof" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Users/monyk/Desktop/GRAFICACION/glut-3.7.6-bin/bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyectof" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Users/monyk/Desktop/GRAFICACION/glut-3.7.6-bin/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Users/monyk/Desktop/GRAFICACION/glut-3.7.6-bin/include" />
+		</Compiler>
+		<Linker>
+			<Add library="glut32" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add directory="C:/Users/monyk/Desktop/GRAFICACION/glut-3.7.6-bin/lib" />
+		</Linker>
+		<Unit filename="include/Bonos.h" />
+		<Unit filename="include/Colisionador.h" />
+		<Unit filename="include/Cubo.h" />
+		<Unit filename="include/Escenario.h" />
+		<Unit filename="include/Laberinto.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Bonos.cpp" />
+		<Unit filename="src/Colisionador.cpp" />
+		<Unit filename="src/Cubo.cpp" />
+		<Unit filename="src/Escenario.cpp" />
+		<Unit filename="src/Laberinto.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
